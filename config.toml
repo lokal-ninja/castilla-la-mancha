@@ -1,0 +1,20 @@
+baseURL = "https://es.shoogle.net/castilla-la-mancha/"
+languageCode = "es"
+title = "Castilla-La Mancha"
+theme = "ln-base"
+
+disableKinds = ["RSS", "robotsTXT"]
+enableGitInfo = true
+
+[outputs]
+  home = ["HTML", "JSON"]
+  section = ["HTML", "JSON"]
+
+[params]
+  site = "Shoogle"
+  org = "lokal-ninja"
+  repo = "castilla-la-mancha"
+
+[taxonomies]
+  shop = "shops"
+

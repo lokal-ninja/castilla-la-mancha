@@ -1,0 +1,1 @@
+Castilla-La Mancha es una comunidad autónoma de España, de acuerdo con su Estatuto de Autonomía y la Constitución española. Está formada por 919 municipios que integran las provincias de Albacete, Ciudad Real, Cuenca, Guadalajara y Toledo. (Wikipedia)
