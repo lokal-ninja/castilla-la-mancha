@@ -1,5 +1,5 @@
 ---
 title: "Mercadona"
-url: /puertollano/mercadona/
+url: /puertollano/mercadona-calle-asdrubal/
 shop: supermercado
 ---

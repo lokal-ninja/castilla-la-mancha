@@ -1,5 +1,5 @@
 ---
 title: "Dulce & Salado"
-url: /toledo/dulce-und-salado/
+url: /toledo/dulce-y-salado/
 shop: comodidad
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Pica&Pica Vending"
-url: /toledo/picaundpica-vending/
+url: /toledo/picaypica-vending/
 shop: comodidad
 ---

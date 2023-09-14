@@ -1,5 +1,5 @@
 ---
 title: "C&C Academía de Peluquería"
-url: /toledo/cundc-academia-de-peluqueria/
+url: /toledo/cyc-academia-de-peluqueria/
 shop: peluquería
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Benipan"
-url: /toledo/benipan/
+url: /toledo/benipan-calle-del-nuncio-viejo/
 shop: panadería
 ---

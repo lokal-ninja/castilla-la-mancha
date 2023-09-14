@@ -1,5 +1,5 @@
 ---
 title: "Koker"
-url: /toledo/koker/
+url: /toledo/koker-calle-alfonso-x-el-sabio/
 shop: ropa
 ---

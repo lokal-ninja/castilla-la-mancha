@@ -1,5 +1,5 @@
 ---
 title: "Benipan"
-url: /toledo/benipan/
+url: /toledo/benipan-ronda-de-buenavista/
 shop: quiosco
 ---

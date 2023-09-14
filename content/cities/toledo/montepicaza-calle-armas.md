@@ -1,5 +1,5 @@
 ---
 title: "Montepicaza"
-url: /toledo/montepicaza/
+url: /toledo/montepicaza-calle-armas/
 shop: ropa
 ---
