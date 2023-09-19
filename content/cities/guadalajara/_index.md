@@ -1,6 +1,6 @@
 ---
 title: Guadalajara
 url: /guadalajara/
-latitude: 40.639
-longitude: -3.155
+latitude: 40.637
+longitude: -3.189
 ---

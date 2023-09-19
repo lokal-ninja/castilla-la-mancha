@@ -1,6 +1,6 @@
 ---
 title: La Solana
 url: /la-solana/
-latitude: 38.939
-longitude: -3.238
+latitude: 38.949
+longitude: -3.231
 ---
