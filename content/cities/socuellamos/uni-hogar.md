@@ -1,5 +1,5 @@
 ---
-title: "UNI HOGAR"
+title: "Uni Hogar"
 url: /socuellamos/uni-hogar/
-shop: general
+shop: tienda de variedades
 ---
