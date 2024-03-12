@@ -1,5 +1,5 @@
 ---
 title: "Vodafone"
-url: /toledo/vodafone-calle-del-rio-alberche/
+url: /toledo/vodafone-travesia-de-mejico/
 shop: teléfono móvil
 ---
