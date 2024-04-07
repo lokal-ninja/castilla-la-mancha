@@ -1,6 +1,6 @@
 ---
 title: Valdepeñas
 url: /valdepenas/
-latitude: 38.757
-longitude: -3.382
+latitude: 38.76
+longitude: -3.387
 ---
