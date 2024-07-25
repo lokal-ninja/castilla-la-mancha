@@ -1,5 +1,5 @@
 ---
-title: "JOSE ANTONIO AUÑON ESLAVA"
+title: "José Antonio Auñón Eslava"
 url: /cardenete/jose-antonio-aunon-eslava/
 shop: supermercado
 ---
