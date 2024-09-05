@@ -1,5 +1,5 @@
 ---
 title: "Mercadona"
 url: /guadalajara/mercadona/
-shop: supermercado
+shop: Supermarkt
 ---

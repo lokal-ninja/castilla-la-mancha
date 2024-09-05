@@ -1,5 +1,5 @@
 ---
 title: "Charter"
 url: /tobarra/charter/
-shop: supermercado
+shop: Supermarkt
 ---

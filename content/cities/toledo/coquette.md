@@ -1,5 +1,5 @@
 ---
 title: "Coquette"
 url: /toledo/coquette/
-shop: ropa
+shop: Kleidung
 ---

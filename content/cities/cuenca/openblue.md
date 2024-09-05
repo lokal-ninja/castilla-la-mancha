@@ -1,5 +1,5 @@
 ---
 title: "openBlue"
 url: /cuenca/openblue/
-shop: lavandería
+shop: Wäscherei
 ---

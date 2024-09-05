@@ -1,5 +1,5 @@
 ---
 title: "Alguacil"
 url: /sonseca/alguacil/
-shop: pastelería
+shop: Konditorei
 ---

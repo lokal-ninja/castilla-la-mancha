@@ -1,5 +1,5 @@
 ---
 title: "Versic"
 url: /toledo/versic/
-shop: regalo
+shop: Andenken
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Condis"
 url: /mentrida/condis/
-shop: supermercado
+shop: Supermarkt
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Bernardo"
 url: /la-roda/bernardo/
-shop: carnicero
+shop: Metzgerei
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Dia"
 url: /mentrida/dia/
-shop: supermercado
+shop: Supermarkt
 ---

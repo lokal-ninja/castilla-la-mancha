@@ -1,5 +1,5 @@
 ---
 title: "Panadería Mucha Miga"
 url: /toledo/panaderia-mucha-miga/
-shop: panadería
+shop: Bäckerei
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Cárnicas Araceli"
 url: /villalba-de-la-sierra/carnicas-araceli/
-shop: carnicero
+shop: Metzgerei
 ---

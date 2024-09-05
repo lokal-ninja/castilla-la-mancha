@@ -1,5 +1,5 @@
 ---
 title: "Confitería La Suiza"
 url: /albacete/confiteria-la-suiza/
-shop: panadería
+shop: Bäckerei
 ---

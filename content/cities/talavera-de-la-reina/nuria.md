@@ -1,5 +1,5 @@
 ---
 title: "Nuria"
 url: /talavera-de-la-reina/nuria/
-shop: pastelería
+shop: Konditorei
 ---

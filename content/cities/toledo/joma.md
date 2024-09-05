@@ -1,5 +1,5 @@
 ---
 title: "Joma"
 url: /toledo/joma/
-shop: ropa
+shop: Kleidung
 ---

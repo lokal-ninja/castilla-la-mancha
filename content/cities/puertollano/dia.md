@@ -1,5 +1,5 @@
 ---
 title: "Dia"
 url: /puertollano/dia/
-shop: supermercado
+shop: Supermarkt
 ---

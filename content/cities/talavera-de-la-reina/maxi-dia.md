@@ -1,5 +1,5 @@
 ---
 title: "Maxi Dia"
 url: /talavera-de-la-reina/maxi-dia/
-shop: supermercado
+shop: Supermarkt
 ---

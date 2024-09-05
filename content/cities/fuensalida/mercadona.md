@@ -1,5 +1,5 @@
 ---
 title: "Mercadona"
 url: /fuensalida/mercadona/
-shop: supermercado
+shop: Supermarkt
 ---

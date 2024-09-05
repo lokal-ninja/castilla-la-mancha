@@ -1,5 +1,5 @@
 ---
 title: "Mercadona"
 url: /ocana/mercadona/
-shop: supermercado
+shop: Supermarkt
 ---

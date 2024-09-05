@@ -1,5 +1,5 @@
 ---
 title: "Galatea"
 url: /toledo/galatea/
-shop: regalo
+shop: Andenken
 ---

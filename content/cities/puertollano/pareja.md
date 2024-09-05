@@ -1,5 +1,5 @@
 ---
 title: "Pareja"
 url: /puertollano/pareja/
-shop: panadería
+shop: Bäckerei
 ---

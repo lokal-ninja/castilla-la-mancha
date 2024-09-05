@@ -1,5 +1,5 @@
 ---
 title: "Supermercado"
 url: /nambroca/supermercado/
-shop: supermercado
+shop: Supermarkt
 ---

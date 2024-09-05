@@ -1,5 +1,5 @@
 ---
 title: "Panreal"
 url: /poblete/panreal/
-shop: panadería
+shop: Bäckerei
 ---

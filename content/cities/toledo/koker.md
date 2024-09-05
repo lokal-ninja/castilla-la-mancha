@@ -1,5 +1,5 @@
 ---
 title: "Koker"
 url: /toledo/koker/
-shop: ropa
+shop: Kleidung
 ---

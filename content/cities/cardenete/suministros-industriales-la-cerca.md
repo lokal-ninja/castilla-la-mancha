@@ -1,5 +1,5 @@
 ---
 title: "Suministros Industriales La Cerca"
 url: /cardenete/suministros-industriales-la-cerca/
-shop: floristería
+shop: Blumen
 ---

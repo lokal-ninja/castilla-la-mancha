@@ -1,5 +1,5 @@
 ---
 title: "Covirán"
 url: /escalonilla/coviran/
-shop: supermercado
+shop: Supermarkt
 ---

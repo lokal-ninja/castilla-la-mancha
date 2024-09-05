@@ -1,5 +1,5 @@
 ---
 title: "MR Complementos"
 url: /toledo/mr-complementos/
-shop: regalo
+shop: Andenken
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Cepao"
 url: /ocana/cepao/
-shop: panadería
+shop: Bäckerei
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Punt Roma"
 url: /toledo/punt-roma/
-shop: ropa
+shop: Kleidung
 ---

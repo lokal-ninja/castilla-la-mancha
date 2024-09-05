@@ -1,5 +1,5 @@
 ---
 title: "Calzados Ria"
 url: /toledo/calzados-ria/
-shop: zapatos
+shop: Schuhe
 ---

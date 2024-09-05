@@ -1,5 +1,5 @@
 ---
 title: "Natural Gourmet"
 url: /llanos-del-caudillo/natural-gourmet/
-shop: supermercado
+shop: Supermarkt
 ---

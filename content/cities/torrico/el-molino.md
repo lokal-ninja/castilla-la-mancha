@@ -1,5 +1,5 @@
 ---
 title: "El Molino"
 url: /torrico/el-molino/
-shop: supermercado
+shop: Supermarkt
 ---

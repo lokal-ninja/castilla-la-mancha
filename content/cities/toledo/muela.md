@@ -1,5 +1,5 @@
 ---
 title: "Muela"
 url: /toledo/muela/
-shop: regalo
+shop: Andenken
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Pepe"
 url: /talavera-de-la-reina/pepe/
-shop: frutería
+shop: Metzgerei
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Dossoles"
 url: /talavera-de-la-reina/dossoles/
-shop: cosméticos
+shop: Kosmetik
 ---

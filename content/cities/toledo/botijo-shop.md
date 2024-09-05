@@ -1,5 +1,5 @@
 ---
 title: "Botijo Shop"
 url: /toledo/botijo-shop/
-shop: regalo
+shop: Andenken
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Mercadona"
 url: /puertollano/mercadona/
-shop: supermercado
+shop: Supermarkt
 ---

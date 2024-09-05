@@ -1,5 +1,5 @@
 ---
 title: "Mersan"
 url: /sonseca/mersan/
-shop: muebles
+shop: Möbel
 ---

@@ -1,5 +1,5 @@
 ---
 title: "By Lola"
 url: /toledo/by-lola/
-shop: ropa
+shop: Kleidung
 ---

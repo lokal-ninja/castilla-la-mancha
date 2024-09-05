@@ -1,5 +1,5 @@
 ---
 title: "Btravel"
 url: /toledo/btravel/
-shop: agencia de viajes
+shop: Reisebüro
 ---

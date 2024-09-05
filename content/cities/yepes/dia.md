@@ -1,5 +1,5 @@
 ---
 title: "Dia"
 url: /yepes/dia/
-shop: supermercado
+shop: Supermarkt
 ---

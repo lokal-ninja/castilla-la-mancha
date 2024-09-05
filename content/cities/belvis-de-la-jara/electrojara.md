@@ -1,5 +1,5 @@
 ---
 title: "ElectroJara"
 url: /belvis-de-la-jara/electrojara/
-shop: electrónica
+shop: Elektronik
 ---

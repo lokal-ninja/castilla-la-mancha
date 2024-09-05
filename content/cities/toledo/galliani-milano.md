@@ -1,5 +1,5 @@
 ---
 title: "Galliani Milano"
 url: /toledo/galliani-milano/
-shop: peluquería
+shop: Friseur
 ---

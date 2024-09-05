@@ -1,5 +1,5 @@
 ---
 title: "Culebras Bikes"
 url: /villanueva-de-la-jara/culebras-bikes/
-shop: bicicleta
+shop: Fahrrad
 ---

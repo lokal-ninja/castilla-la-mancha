@@ -1,5 +1,5 @@
 ---
 title: "ALDI"
 url: /guadalajara/aldi/
-shop: supermercado
+shop: Supermarkt
 ---

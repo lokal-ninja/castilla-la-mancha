@@ -1,5 +1,5 @@
 ---
 title: "Frutería Nano"
 url: /toledo/fruteria-nano/
-shop: frutería
+shop: Gemüse & Obst
 ---
