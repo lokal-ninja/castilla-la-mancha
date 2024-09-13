@@ -1,5 +1,5 @@
 ---
 title: "Xiaomi"
 url: /albacete/xiaomi/
-shop: Handy
+shop: teléfono móvil
 ---

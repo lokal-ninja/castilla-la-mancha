@@ -1,5 +1,5 @@
 ---
 title: "Confía"
 url: /talavera-de-la-reina/confia/
-shop: Supermarkt
+shop: supermercado
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Sonseca J Car"
 url: /sonseca/sonseca-j-car/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

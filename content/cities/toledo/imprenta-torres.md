@@ -1,5 +1,5 @@
 ---
 title: "Imprenta Torres"
 url: /toledo/imprenta-torres/
-shop: Schreibwaren
+shop: material de oficina
 ---

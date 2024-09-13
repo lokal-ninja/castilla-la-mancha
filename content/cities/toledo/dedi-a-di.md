@@ -1,5 +1,5 @@
 ---
 title: "Dedi a Di"
 url: /toledo/dedi-a-di/
-shop: Kleidung
+shop: ropa
 ---

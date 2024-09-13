@@ -1,5 +1,5 @@
 ---
 title: "Bed's"
 url: /toledo/beds/
-shop: Betten
+shop: cama
 ---

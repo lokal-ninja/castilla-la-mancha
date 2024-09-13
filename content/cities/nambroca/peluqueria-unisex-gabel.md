@@ -1,5 +1,5 @@
 ---
 title: "Peluquería Unisex Gabel"
 url: /nambroca/peluqueria-unisex-gabel/
-shop: Friseur
+shop: peluquería
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Jofran"
 url: /talavera-de-la-reina/jofran/
-shop: Nähzubehör
+shop: coser
 ---

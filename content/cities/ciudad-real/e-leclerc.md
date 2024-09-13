@@ -1,5 +1,5 @@
 ---
 title: "E. Leclerc"
 url: /ciudad-real/e-leclerc/
-shop: Supermarkt
+shop: supermercado
 ---

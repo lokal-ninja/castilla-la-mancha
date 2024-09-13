@@ -1,5 +1,5 @@
 ---
 title: "Sabor Extremeño"
 url: /talavera-de-la-reina/sabor-extremeno/
-shop: Metzgerei
+shop: carnicero
 ---

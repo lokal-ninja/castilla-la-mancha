@@ -1,5 +1,5 @@
 ---
 title: "Glassdrive"
 url: /torrijos/glassdrive/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

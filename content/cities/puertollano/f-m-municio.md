@@ -1,5 +1,5 @@
 ---
 title: "F.M. Municio"
 url: /puertollano/f-m-municio/
-shop: Baustoffe
+shop: comercio
 ---

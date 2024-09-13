@@ -1,5 +1,5 @@
 ---
 title: "Bazar Alimentación"
 url: /talavera-de-la-reina/bazar-alimentacion/
-shop: Kramladen
+shop: tienda de variedades
 ---

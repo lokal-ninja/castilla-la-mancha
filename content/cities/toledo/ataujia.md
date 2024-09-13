@@ -1,5 +1,5 @@
 ---
 title: "Ataujia"
 url: /toledo/ataujia/
-shop: Andenken
+shop: regalo
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Hermanos Brasal Alimentación"
 url: /toledo/hermanos-brasal-alimentacion/
-shop: Lebensmittel
+shop: comodidad
 ---

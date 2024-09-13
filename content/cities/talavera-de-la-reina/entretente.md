@@ -1,5 +1,5 @@
 ---
 title: "Entretente"
 url: /talavera-de-la-reina/entretente/
-shop: Basteln
+shop: artesanía
 ---

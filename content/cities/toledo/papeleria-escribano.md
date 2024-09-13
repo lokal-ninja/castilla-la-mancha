@@ -1,5 +1,5 @@
 ---
 title: "Papelería Escribano"
 url: /toledo/papeleria-escribano/
-shop: Schreibwaren
+shop: material de oficina
 ---

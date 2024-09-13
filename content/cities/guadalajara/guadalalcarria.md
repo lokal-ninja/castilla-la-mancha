@@ -1,5 +1,5 @@
 ---
 title: "GuadalAlcarria"
 url: /guadalajara/guadalalcarria/
-shop: Einkaufszentrum
+shop: centro comercial
 ---

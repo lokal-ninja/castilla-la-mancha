@@ -1,5 +1,5 @@
 ---
 title: "Fripisa"
 url: /puertollano/fripisa/
-shop: Tiefkühl
+shop: alimentos congelados
 ---

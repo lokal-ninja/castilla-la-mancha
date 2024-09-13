@@ -1,5 +1,5 @@
 ---
 title: "Panadería Utrilla"
 url: /alcazar-de-san-juan/panaderia-utrilla/
-shop: Bäckerei
+shop: panadería
 ---

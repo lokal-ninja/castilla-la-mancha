@@ -1,5 +1,5 @@
 ---
 title: "Papelería Ibrahim"
 url: /valdepenas/papeleria-ibrahim/
-shop: Bücher
+shop: libros
 ---

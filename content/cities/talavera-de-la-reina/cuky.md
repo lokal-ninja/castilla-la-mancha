@@ -1,5 +1,5 @@
 ---
 title: "Cuky"
 url: /talavera-de-la-reina/cuky/
-shop: Tiere
+shop: mascotas
 ---

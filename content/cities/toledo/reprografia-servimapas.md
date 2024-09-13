@@ -1,5 +1,5 @@
 ---
 title: "Reprografía Servimapas"
 url: /toledo/reprografia-servimapas/
-shop: Schreibwaren
+shop: material de oficina
 ---

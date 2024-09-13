@@ -1,5 +1,5 @@
 ---
 title: "Sugar cake"
 url: /talavera-de-la-reina/sugar-cake/
-shop: Konditorei
+shop: pastelería
 ---

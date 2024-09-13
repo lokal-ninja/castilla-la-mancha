@@ -1,5 +1,5 @@
 ---
 title: "Cerrajería Llorente"
 url: /el-casar/cerrajeria-llorente/
-shop: Allgemein
+shop: general
 ---

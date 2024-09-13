@@ -1,5 +1,5 @@
 ---
 title: "Repuestos Hidalgo"
 url: /toledo/repuestos-hidalgo/
-shop: Autoteile
+shop: piezas de automóviles
 ---

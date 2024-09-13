@@ -1,5 +1,5 @@
 ---
 title: "Eurotaller"
 url: /puertollano/eurotaller/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

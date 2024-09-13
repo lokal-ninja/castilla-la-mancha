@@ -1,5 +1,5 @@
 ---
 title: "Sofas Miguel Angel"
 url: /sonseca/sofas-miguel-angel/
-shop: Möbel
+shop: muebles
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Primor"
 url: /toledo/primor/
-shop: Kosmetik
+shop: cosméticos
 ---

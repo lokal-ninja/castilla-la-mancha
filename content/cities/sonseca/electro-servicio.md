@@ -1,5 +1,5 @@
 ---
 title: "Electro-Servicio"
 url: /sonseca/electro-servicio/
-shop: Elektronik
+shop: electrónica
 ---

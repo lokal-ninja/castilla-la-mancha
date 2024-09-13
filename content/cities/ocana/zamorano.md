@@ -1,5 +1,5 @@
 ---
 title: "Zamorano"
 url: /ocana/zamorano/
-shop: Sport
+shop: deportes
 ---

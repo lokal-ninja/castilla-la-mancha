@@ -1,5 +1,5 @@
 ---
 title: "Mercadona"
 url: /illescas/mercadona/
-shop: Supermarkt
+shop: supermercado
 ---

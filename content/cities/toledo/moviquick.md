@@ -1,5 +1,5 @@
 ---
 title: "Moviquick"
 url: /toledo/moviquick/
-shop: Handy
+shop: teléfono móvil
 ---

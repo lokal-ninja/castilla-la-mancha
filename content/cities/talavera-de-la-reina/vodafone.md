@@ -1,5 +1,5 @@
 ---
 title: "Vodafone"
 url: /talavera-de-la-reina/vodafone/
-shop: Handy
+shop: teléfono móvil
 ---

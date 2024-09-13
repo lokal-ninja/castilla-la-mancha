@@ -1,5 +1,5 @@
 ---
 title: "Tanatorio"
 url: /guadalajara/tanatorio/
-shop: Bestattungen
+shop: directores de funerarias
 ---

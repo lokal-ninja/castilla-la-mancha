@@ -1,5 +1,5 @@
 ---
 title: "MG Nature"
 url: /toledo/mg-nature/
-shop: Angeln
+shop: pesca
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Automóviles Santano"
 url: /munera/automoviles-santano/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Detalles"
 url: /ocana/detalles/
-shop: Kramladen
+shop: tienda de variedades
 ---

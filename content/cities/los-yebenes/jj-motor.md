@@ -1,5 +1,5 @@
 ---
 title: "JJ Motor"
 url: /los-yebenes/jj-motor/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

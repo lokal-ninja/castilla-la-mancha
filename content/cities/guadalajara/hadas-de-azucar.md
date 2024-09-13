@@ -1,5 +1,5 @@
 ---
 title: "Hadas de Azúcar"
 url: /guadalajara/hadas-de-azucar/
-shop: Süßwaren
+shop: confitería
 ---

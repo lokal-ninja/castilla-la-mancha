@@ -1,5 +1,5 @@
 ---
 title: "Las Gemas"
 url: /talavera-de-la-reina/las-gemas/
-shop: Schmuck
+shop: joyería
 ---

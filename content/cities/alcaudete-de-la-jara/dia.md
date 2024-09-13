@@ -1,5 +1,5 @@
 ---
 title: "Dia"
 url: /alcaudete-de-la-jara/dia/
-shop: Supermarkt
+shop: supermercado
 ---

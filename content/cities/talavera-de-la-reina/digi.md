@@ -1,5 +1,5 @@
 ---
 title: "Digi"
 url: /talavera-de-la-reina/digi/
-shop: Computer
+shop: ordenador
 ---

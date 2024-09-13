@@ -1,5 +1,5 @@
 ---
 title: "Punta pie"
 url: /talavera-de-la-reina/punta-pie/
-shop: Schuhe
+shop: zapatos
 ---

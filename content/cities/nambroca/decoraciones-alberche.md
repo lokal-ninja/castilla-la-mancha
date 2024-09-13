@@ -1,5 +1,5 @@
 ---
 title: "Decoraciones Alberche"
 url: /nambroca/decoraciones-alberche/
-shop: Raumausstattung
+shop: decoración interior
 ---

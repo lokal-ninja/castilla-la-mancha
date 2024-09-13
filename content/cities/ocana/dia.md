@@ -1,5 +1,5 @@
 ---
 title: "Dia"
 url: /ocana/dia/
-shop: Supermarkt
+shop: supermercado
 ---

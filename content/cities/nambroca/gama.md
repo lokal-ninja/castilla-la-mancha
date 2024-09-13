@@ -1,5 +1,5 @@
 ---
 title: "Gama"
 url: /nambroca/gama/
-shop: Supermarkt
+shop: supermercado
 ---

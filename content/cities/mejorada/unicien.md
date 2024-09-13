@@ -1,5 +1,5 @@
 ---
 title: "Unicien"
 url: /mejorada/unicien/
-shop: Allgemein
+shop: general
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Hiper Asia"
 url: /guadalajara/hiper-asia/
-shop: Kramladen
+shop: tienda de variedades
 ---

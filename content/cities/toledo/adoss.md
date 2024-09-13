@@ -1,5 +1,5 @@
 ---
 title: "Adoss"
 url: /toledo/adoss/
-shop: Friseurbedarf
+shop: suministros de peluquería
 ---

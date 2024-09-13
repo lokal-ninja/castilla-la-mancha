@@ -1,5 +1,5 @@
 ---
 title: "Cepsa"
 url: /torija/cepsa/
-shop: Lebensmittel
+shop: comodidad
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Lidl"
 url: /illescas/lidl/
-shop: Supermarkt
+shop: supermercado
 ---

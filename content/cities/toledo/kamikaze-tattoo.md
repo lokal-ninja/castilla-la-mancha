@@ -1,5 +1,5 @@
 ---
 title: "Kamikaze Tattoo"
 url: /toledo/kamikaze-tattoo/
-shop: Tattoo
+shop: tatuaje
 ---

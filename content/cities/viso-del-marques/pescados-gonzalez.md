@@ -1,5 +1,5 @@
 ---
 title: "Pescados González"
 url: /viso-del-marques/pescados-gonzalez/
-shop: Fisch
+shop: marisco
 ---

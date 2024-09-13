@@ -1,5 +1,5 @@
 ---
 title: "arthema"
 url: /toledo/arthema/
-shop: Schreibwaren
+shop: material de oficina
 ---

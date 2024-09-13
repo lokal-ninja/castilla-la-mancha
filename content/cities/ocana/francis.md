@@ -1,5 +1,5 @@
 ---
 title: "Francis"
 url: /ocana/francis/
-shop: Bäckerei
+shop: panadería
 ---

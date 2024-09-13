@@ -1,5 +1,5 @@
 ---
 title: "Gourmet Antón"
 url: /cuenca/gourmet-anton/
-shop: Feinkost
+shop: charcutería
 ---

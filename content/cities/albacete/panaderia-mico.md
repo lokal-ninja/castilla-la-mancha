@@ -1,5 +1,5 @@
 ---
 title: "Panadería Micó"
 url: /albacete/panaderia-mico/
-shop: Bäckerei
+shop: panadería
 ---

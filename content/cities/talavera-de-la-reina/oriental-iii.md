@@ -1,5 +1,5 @@
 ---
 title: "Oriental III"
 url: /talavera-de-la-reina/oriental-iii/
-shop: Lebensmittel
+shop: comodidad
 ---

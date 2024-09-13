@@ -1,5 +1,5 @@
 ---
 title: "Ahorramás"
 url: /socuellamos/ahorramas/
-shop: Supermarkt
+shop: supermercado
 ---

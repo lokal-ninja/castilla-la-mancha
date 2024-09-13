@@ -1,5 +1,5 @@
 ---
 title: "CRA Automoción"
 url: /talavera-de-la-reina/cra-automocion/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

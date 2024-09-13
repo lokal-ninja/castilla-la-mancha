@@ -1,5 +1,5 @@
 ---
 title: "Lurueña"
 url: /toledo/luruena/
-shop: Schuhe
+shop: zapatos
 ---

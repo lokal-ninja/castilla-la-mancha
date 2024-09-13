@@ -1,5 +1,5 @@
 ---
 title: "Óptica Ocaña"
 url: /ocana/optica-ocana/
-shop: Optiker
+shop: óptico
 ---

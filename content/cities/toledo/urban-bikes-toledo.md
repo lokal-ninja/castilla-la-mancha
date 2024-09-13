@@ -1,5 +1,5 @@
 ---
 title: "Urban Bikes Toledo"
 url: /toledo/urban-bikes-toledo/
-shop: Fahrrad
+shop: bicicleta
 ---

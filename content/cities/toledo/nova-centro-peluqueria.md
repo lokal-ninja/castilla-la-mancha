@@ -1,5 +1,5 @@
 ---
 title: "Nova Centro Peluquería"
 url: /toledo/nova-centro-peluqueria/
-shop: Friseur
+shop: peluquería
 ---

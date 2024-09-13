@@ -1,5 +1,5 @@
 ---
 title: "Benipan"
 url: /toledo/benipan/
-shop: Bäckerei
+shop: panadería
 ---

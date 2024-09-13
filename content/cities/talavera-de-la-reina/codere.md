@@ -1,5 +1,5 @@
 ---
 title: "Codere"
 url: /talavera-de-la-reina/codere/
-shop: Wettbüro
+shop: corredor de apuestas
 ---

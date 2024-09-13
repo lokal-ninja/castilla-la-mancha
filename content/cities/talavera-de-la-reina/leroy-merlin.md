@@ -1,5 +1,5 @@
 ---
 title: "Leroy Merlin"
 url: /talavera-de-la-reina/leroy-merlin/
-shop: Baumarkt
+shop: hágalo usted mismo
 ---

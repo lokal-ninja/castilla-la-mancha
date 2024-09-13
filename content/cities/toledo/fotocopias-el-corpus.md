@@ -1,5 +1,5 @@
 ---
 title: "Fotocopias El Corpus"
 url: /toledo/fotocopias-el-corpus/
-shop: Schreibwaren
+shop: material de oficina
 ---

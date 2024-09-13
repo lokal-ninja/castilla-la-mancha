@@ -1,5 +1,5 @@
 ---
 title: "Pannia"
 url: /talavera-de-la-reina/pannia/
-shop: Bäckerei
+shop: panadería
 ---

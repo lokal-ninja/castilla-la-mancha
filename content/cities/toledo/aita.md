@@ -1,5 +1,5 @@
 ---
 title: "Aïta"
 url: /toledo/aita/
-shop: Schuhe
+shop: zapatos
 ---

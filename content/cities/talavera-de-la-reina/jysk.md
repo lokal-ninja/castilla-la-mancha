@@ -1,5 +1,5 @@
 ---
 title: "JYSK"
 url: /talavera-de-la-reina/jysk/
-shop: Möbel
+shop: muebles
 ---

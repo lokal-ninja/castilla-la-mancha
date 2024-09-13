@@ -1,5 +1,5 @@
 ---
 title: "Panadería Maeso"
 url: /checa/panaderia-maeso/
-shop: Bäckerei
+shop: panadería
 ---

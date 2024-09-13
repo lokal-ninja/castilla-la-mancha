@@ -1,5 +1,5 @@
 ---
 title: "Frutería - Alimentación"
 url: /toledo/fruteria-alimentacion/
-shop: Gemüse & Obst
+shop: frutería
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Covirán"
 url: /toledo/coviran-calle-atenas/
-shop: Supermarkt
+shop: supermercado
 ---

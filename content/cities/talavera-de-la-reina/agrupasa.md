@@ -1,5 +1,5 @@
 ---
 title: "Agrupasa"
 url: /talavera-de-la-reina/agrupasa/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

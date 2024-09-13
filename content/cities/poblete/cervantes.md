@@ -1,5 +1,5 @@
 ---
 title: "Cervantes"
 url: /poblete/cervantes/
-shop: Schreibwaren
+shop: material de oficina
 ---

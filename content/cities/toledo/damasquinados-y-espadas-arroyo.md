@@ -1,5 +1,5 @@
 ---
 title: "Damasquinados y Espadas Arroyo"
 url: /toledo/damasquinados-y-espadas-arroyo/
-shop: Andenken
+shop: regalo
 ---

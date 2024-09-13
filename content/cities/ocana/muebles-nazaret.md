@@ -1,5 +1,5 @@
 ---
 title: "Muebles Nazaret"
 url: /ocana/muebles-nazaret/
-shop: Möbel
+shop: muebles
 ---

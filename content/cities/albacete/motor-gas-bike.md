@@ -1,5 +1,5 @@
 ---
 title: "Motor Gas Bike"
 url: /albacete/motor-gas-bike/
-shop: Motorrad
+shop: motocicleta
 ---

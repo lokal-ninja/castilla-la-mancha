@@ -1,5 +1,5 @@
 ---
 title: "Azulejos y Baños Mart-Home"
 url: /toledo/azulejos-y-banos-mart-home/
-shop: Baumarkt
+shop: hágalo usted mismo
 ---

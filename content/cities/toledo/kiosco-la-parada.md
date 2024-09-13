@@ -1,5 +1,5 @@
 ---
 title: "Kiosco La Parada"
 url: /toledo/kiosco-la-parada/
-shop: Kiosk
+shop: quiosco
 ---

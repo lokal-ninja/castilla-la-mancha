@@ -1,5 +1,5 @@
 ---
 title: "Villarreal y Valiente"
 url: /los-yebenes/villarreal-y-valiente/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

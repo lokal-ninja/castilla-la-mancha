@@ -1,5 +1,5 @@
 ---
 title: "Manzano. Verduras Y Frutas"
 url: /sonseca/manzano-verduras-y-frutas/
-shop: Gemüse & Obst
+shop: frutería
 ---

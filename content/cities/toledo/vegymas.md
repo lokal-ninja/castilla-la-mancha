@@ -1,5 +1,5 @@
 ---
 title: "Vegymas"
 url: /toledo/vegymas/
-shop: Bioladen
+shop: alimentación sana
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Costa Este"
 url: /talavera-de-la-reina/costa-este/
-shop: Reisebüro
+shop: agencia de viajes
 ---

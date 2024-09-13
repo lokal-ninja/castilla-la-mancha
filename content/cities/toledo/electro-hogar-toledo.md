@@ -1,5 +1,5 @@
 ---
 title: "Electro Hogar Toledo"
 url: /toledo/electro-hogar-toledo/
-shop: Staubsauger
+shop: aspiradora
 ---

@@ -1,5 +1,5 @@
 ---
 title: "ToleCenter"
 url: /toledo/tolecenter/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

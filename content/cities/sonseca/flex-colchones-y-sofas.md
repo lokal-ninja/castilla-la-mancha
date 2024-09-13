@@ -1,5 +1,5 @@
 ---
 title: "FLEX - Colchones y sofás"
 url: /sonseca/flex-colchones-y-sofas/
-shop: Möbel
+shop: muebles
 ---

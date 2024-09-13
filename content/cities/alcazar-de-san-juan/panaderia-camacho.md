@@ -1,5 +1,5 @@
 ---
 title: "Panadería Camacho"
 url: /alcazar-de-san-juan/panaderia-camacho/
-shop: Bäckerei
+shop: panadería
 ---

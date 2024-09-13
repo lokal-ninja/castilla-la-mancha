@@ -1,5 +1,5 @@
 ---
 title: "Pimkie"
 url: /toledo/pimkie/
-shop: Kleidung
+shop: ropa
 ---

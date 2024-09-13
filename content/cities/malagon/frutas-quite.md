@@ -1,5 +1,5 @@
 ---
 title: "Frutas Quite"
 url: /malagon/frutas-quite/
-shop: Hofladen
+shop: granja
 ---

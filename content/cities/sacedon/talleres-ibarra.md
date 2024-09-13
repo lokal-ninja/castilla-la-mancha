@@ -1,5 +1,5 @@
 ---
 title: "Talleres Ibarra"
 url: /sacedon/talleres-ibarra/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

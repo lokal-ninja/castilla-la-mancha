@@ -1,5 +1,5 @@
 ---
 title: "Con Mucho Arte"
 url: /toledo/con-mucho-arte/
-shop: Basteln
+shop: artesanía
 ---

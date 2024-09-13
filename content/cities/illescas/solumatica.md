@@ -1,5 +1,5 @@
 ---
 title: "Solumática"
 url: /illescas/solumatica/
-shop: Computer
+shop: ordenador
 ---

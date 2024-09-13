@@ -1,5 +1,5 @@
 ---
 title: "Miguelitos Ruiz"
 url: /la-roda/miguelitos-ruiz/
-shop: Feinkost
+shop: charcutería
 ---

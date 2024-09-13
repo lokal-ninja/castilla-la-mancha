@@ -1,5 +1,5 @@
 ---
 title: "Ahorramás"
 url: /illescas/ahorramas/
-shop: Supermarkt
+shop: supermercado
 ---

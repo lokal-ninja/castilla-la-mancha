@@ -1,5 +1,5 @@
 ---
 title: "Frutería La Huerta Toledana"
 url: /toledo/fruteria-la-huerta-toledana/
-shop: Gemüse & Obst
+shop: frutería
 ---

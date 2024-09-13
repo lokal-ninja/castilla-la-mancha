@@ -1,5 +1,5 @@
 ---
 title: "Emhome"
 url: /la-solana/emhome/
-shop: Kramladen
+shop: tienda de variedades
 ---

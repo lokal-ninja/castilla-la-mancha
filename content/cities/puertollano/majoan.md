@@ -1,5 +1,5 @@
 ---
 title: "Majoan"
 url: /puertollano/majoan/
-shop: Tiere
+shop: mascotas
 ---

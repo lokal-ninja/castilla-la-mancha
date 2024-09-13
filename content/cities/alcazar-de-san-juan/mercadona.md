@@ -1,5 +1,5 @@
 ---
 title: "Mercadona"
 url: /alcazar-de-san-juan/mercadona/
-shop: Supermarkt
+shop: supermercado
 ---

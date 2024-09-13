@@ -1,5 +1,5 @@
 ---
 title: "Fotograma studio"
 url: /talavera-de-la-reina/fotograma-studio/
-shop: Foto
+shop: foto
 ---

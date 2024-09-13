@@ -1,5 +1,5 @@
 ---
 title: "KSR Moto"
 url: /talavera-de-la-reina/ksr-moto/
-shop: Motorrad
+shop: motocicleta
 ---

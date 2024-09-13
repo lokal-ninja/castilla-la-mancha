@@ -1,5 +1,5 @@
 ---
 title: "Bikila"
 url: /toledo/bikila/
-shop: Sport
+shop: deportes
 ---

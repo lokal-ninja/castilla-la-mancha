@@ -1,5 +1,5 @@
 ---
 title: "ANPADA XXI"
 url: /huerta-de-valdecarabanos/anpada-xxi/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

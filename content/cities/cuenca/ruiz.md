@@ -1,5 +1,5 @@
 ---
 title: "Ruiz"
 url: /cuenca/ruiz/
-shop: Konditorei
+shop: pastelería
 ---

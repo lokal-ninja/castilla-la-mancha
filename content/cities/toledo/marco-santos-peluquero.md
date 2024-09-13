@@ -1,5 +1,5 @@
 ---
 title: "Marco Santos Peluquero"
 url: /toledo/marco-santos-peluquero/
-shop: Friseur
+shop: peluquería
 ---

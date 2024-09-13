@@ -1,5 +1,5 @@
 ---
 title: "Tanatorio de Sonseca"
 url: /sonseca/tanatorio-de-sonseca/
-shop: Bestattungen
+shop: directores de funerarias
 ---

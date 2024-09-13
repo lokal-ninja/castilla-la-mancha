@@ -1,5 +1,5 @@
 ---
 title: "Uni Hogar"
 url: /socuellamos/uni-hogar/
-shop: Kramladen
+shop: tienda de variedades
 ---
