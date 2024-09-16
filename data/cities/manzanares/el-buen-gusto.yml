@@ -4,8 +4,8 @@ latitude: 38.99965
 longitude: -3.37007
 postcode: "13200"
 city: Manzanares
-street: "Calle de Toledo"
-housenumber: 6
-phone: "+34 926 61 04 15"
-opening_hours: "10:00-14:00,17:00-20:00"
+street: Calle de Toledo
+housenumber: "6"
+phone: +34 926 61 04 15
+opening_hours: 10:00-14:00,17:00-20:00
 website: ""

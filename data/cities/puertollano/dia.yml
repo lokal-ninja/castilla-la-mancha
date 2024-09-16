@@ -1,11 +1,11 @@
 id: 492190774
-type: way
+type: node
 latitude: 38.68381
 longitude: -4.09058
 postcode: "13500"
 city: Puertollano
-street: "Calle Cádiz"
-housenumber: 2
+street: Calle Cádiz
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

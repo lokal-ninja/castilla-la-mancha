@@ -4,8 +4,8 @@ latitude: 39.86154
 longitude: -3.95175
 postcode: "45007"
 city: Toledo
-street: "Calle del Río Fresnedoso"
-housenumber: 11
-phone: "+34 825 739 980"
-opening_hours: "09:00-14:00,17:00-20:00"
-website: "https://www.DoctorBikes.es"
+street: Calle del Río Fresnedoso
+housenumber: "11"
+phone: +34 825 739 980
+opening_hours: 09:00-14:00,17:00-20:00
+website: https://www.DoctorBikes.es

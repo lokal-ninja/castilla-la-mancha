@@ -1,11 +1,11 @@
 id: 263502948
-type: way
+type: node
 latitude: 39.38981
 longitude: -3.21514
 postcode: "13600"
 city: Alcázar de San Juan
-street: "Calle Rondilla de la Cruz Verde"
-housenumber: 9
+street: Calle Rondilla de la Cruz Verde
+housenumber: "9"
 phone: ""
-opening_hours: "Mo-Sa 09:00-21:30"
+opening_hours: Mo-Sa 09:00-21:30
 website: ""

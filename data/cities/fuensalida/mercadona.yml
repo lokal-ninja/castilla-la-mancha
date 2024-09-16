@@ -1,11 +1,11 @@
 id: 640536095
-type: way
+type: node
 latitude: 40.05584
 longitude: -4.19909
 postcode: "45510"
 city: Fuensalida
-street: "Avenida San Crispín"
-housenumber: 102
+street: Avenida San Crispín
+housenumber: "102"
 phone: ""
 opening_hours: ""
-website: "https://www.mercadona.es"
+website: https://www.mercadona.es

@@ -1,11 +1,11 @@
 id: 941977839
-type: way
+type: node
 latitude: 41.08345
 longitude: -3.00258
 postcode: "19242"
 city: Hiendelaencina
-street: "Calle de Santa Cecilia"
-housenumber: 8
-phone: "+34 949899036"
-opening_hours: "Mo-Tu 11:00-21:00; Th-Su 11:00-21:00"
+street: Calle de Santa Cecilia
+housenumber: "8"
+phone: +34 949899036
+opening_hours: Mo-Tu 11:00-21:00; Th-Su 11:00-21:00
 website: ""

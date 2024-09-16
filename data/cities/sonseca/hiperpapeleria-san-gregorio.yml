@@ -1,11 +1,11 @@
 id: 1192435239
-type: way
+type: node
 latitude: 39.67379
 longitude: -3.98131
 postcode: "45100"
 city: Sonseca
-street: "Avenida de San Gregorio"
-housenumber: 1
-phone: "+34 925 38 25 15"
-opening_hours: "Mo-Sa 09:30-13:30; Mo-Fr 17:30-20:30"
-website: "https://www.hiperpapeleriasangregorio.es/es/"
+street: Avenida de San Gregorio
+housenumber: "1"
+phone: +34 925 38 25 15
+opening_hours: Mo-Sa 09:30-13:30; Mo-Fr 17:30-20:30
+website: https://www.hiperpapeleriasangregorio.es/es/

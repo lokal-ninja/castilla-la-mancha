@@ -1,11 +1,11 @@
 id: 105310312
-type: way
+type: node
 latitude: 39.87316
 longitude: -4.02654
 postcode: "45003"
 city: Toledo
-street: "Calle Viena"
-housenumber: 2
+street: Calle Viena
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

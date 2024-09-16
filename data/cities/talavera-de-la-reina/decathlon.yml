@@ -1,11 +1,11 @@
 id: 644423975
-type: way
+type: node
 latitude: 39.96698
 longitude: -4.79533
 postcode: "45600"
 city: Talavera de la Reina
-street: "Carretera de Madrid"
-housenumber: 114
-phone: "+34 925997510"
-opening_hours: "Mo-Sa 09:30-22:00"
-website: "https://www.decathlon.es/es/store-view/tienda-de-deportes-talavera-de-la-reina-0070045900459"
+street: Carretera de Madrid
+housenumber: "114"
+phone: +34 925997510
+opening_hours: Mo-Sa 09:30-22:00
+website: https://www.decathlon.es/es/store-view/tienda-de-deportes-talavera-de-la-reina-0070045900459

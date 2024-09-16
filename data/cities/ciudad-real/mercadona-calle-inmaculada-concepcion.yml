@@ -4,8 +4,8 @@ latitude: 38.98909
 longitude: -3.9236
 postcode: "13003"
 city: Ciudad Real
-street: "Calle Inmaculada Concepción"
-housenumber: 8
-phone: "+34 926223783"
-opening_hours: "Mo-Sa 09:00-21:30"
-website: "https://info.mercadona.es/"
+street: Calle Inmaculada Concepción
+housenumber: "8"
+phone: +34 926223783
+opening_hours: Mo-Sa 09:00-21:30
+website: https://info.mercadona.es/

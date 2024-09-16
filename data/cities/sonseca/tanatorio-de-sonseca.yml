@@ -1,11 +1,11 @@
 id: 1192415270
-type: way
+type: node
 latitude: 39.6726
 longitude: -3.98334
 postcode: "45100"
 city: Sonseca
-street: "Calle Rey"
-housenumber: 16
+street: Calle Rey
+housenumber: "16"
 phone: ""
 opening_hours: ""
 website: ""

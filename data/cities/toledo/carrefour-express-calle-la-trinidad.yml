@@ -4,8 +4,8 @@ latitude: 39.85705
 longitude: -4.02572
 postcode: "45002"
 city: Toledo
-street: "Calle La Trinidad"
-housenumber: 5
-phone: "+34 914 90 89 00"
-opening_hours: "Mo-Sa 09:00-22:00; PH,Su 09:00-22:00"
-website: "https://www.carrefour.es/tiendas-carrefour/supermercados/carrefour-express/calle-trinidad-toledo-s.aspx"
+street: Calle La Trinidad
+housenumber: "5"
+phone: +34 914 90 89 00
+opening_hours: Mo-Sa 09:00-22:00; PH,Su 09:00-22:00
+website: https://www.carrefour.es/tiendas-carrefour/supermercados/carrefour-express/calle-trinidad-toledo-s.aspx

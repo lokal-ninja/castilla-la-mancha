@@ -4,8 +4,8 @@ latitude: 39.87019
 longitude: -4.03122
 postcode: "45005"
 city: Toledo
-street: "Calle Brive"
-housenumber: 7
+street: Calle Brive
+housenumber: "7"
 phone: "+34925223912"
-opening_hours: "Mo,We,Fr 10:30-14:00,17:30-20:30; Tu,Th 17:30-20:30; Sa 10:30-14:00"
-website: "http://www.conmuchoarteshop.com/"
+opening_hours: Mo,We,Fr 10:30-14:00,17:30-20:30; Tu,Th 17:30-20:30; Sa 10:30-14:00
+website: http://www.conmuchoarteshop.com/

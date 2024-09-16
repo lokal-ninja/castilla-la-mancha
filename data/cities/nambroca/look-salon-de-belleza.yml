@@ -4,8 +4,8 @@ latitude: 39.79736
 longitude: -3.94438
 postcode: "45190"
 city: Nambroca
-street: "Calle Real"
-housenumber: 4
-phone: "+34 925 26 04 83"
-opening_hours: "Mo-Th 09:30-14:00,16:30-20:00; Fr 09:30-20:00; Sa 09:30-14:00"
+street: Calle Real
+housenumber: "4"
+phone: +34 925 26 04 83
+opening_hours: Mo-Th 09:30-14:00,16:30-20:00; Fr 09:30-20:00; Sa 09:30-14:00
 website: ""

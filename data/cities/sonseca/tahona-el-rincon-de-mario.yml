@@ -1,11 +1,11 @@
 id: 1192138095
-type: way
+type: node
 latitude: 39.67398
 longitude: -3.97492
 postcode: "45100"
 city: Sonseca
-street: "Calle Sagunto"
-housenumber: 3
+street: Calle Sagunto
+housenumber: "3"
 phone: ""
 opening_hours: ""
 website: ""

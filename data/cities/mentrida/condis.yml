@@ -1,11 +1,11 @@
 id: 464553260
-type: way
+type: node
 latitude: 40.23653
 longitude: -4.19083
 postcode: "45930"
 city: Méntrida
-street: "Avenida San Roque"
-housenumber: 2
+street: Avenida San Roque
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

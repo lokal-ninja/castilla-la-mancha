@@ -1,11 +1,11 @@
 id: 419353815
-type: way
+type: node
 latitude: 40.63384
 longitude: -3.15816
 postcode: "19005"
 city: Guadalajara
-street: "Avenida Barcelona"
-housenumber: 10
-phone: "+34 949219993"
-opening_hours: "Mo-Sa 09:30-21:30"
+street: Avenida Barcelona
+housenumber: "10"
+phone: +34 949219993
+opening_hours: Mo-Sa 09:30-21:30
 website: ""

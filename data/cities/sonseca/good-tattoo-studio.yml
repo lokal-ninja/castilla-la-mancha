@@ -1,11 +1,11 @@
 id: 404252140
-type: way
+type: node
 latitude: 39.68009
 longitude: -3.97692
 postcode: "45100"
 city: Sonseca
-street: "Calle Toledo"
-housenumber: 67
+street: Calle Toledo
+housenumber: "67"
 phone: ""
 opening_hours: ""
 website: ""

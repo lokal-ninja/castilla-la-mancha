@@ -1,11 +1,11 @@
 id: 836188935
-type: way
+type: node
 latitude: 40.02501
 longitude: -4.71207
 postcode: "45646"
 city: San Román de los Montes
-street: "Avenida de San Román"
-housenumber: 1
-phone: "+34 900 300 097"
+street: Avenida de San Román
+housenumber: "1"
+phone: +34 900 300 097
 opening_hours: ""
-website: "https://www.sumasupermercados.es/es/tiendas"
+website: https://www.sumasupermercados.es/es/tiendas

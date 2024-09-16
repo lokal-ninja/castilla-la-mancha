@@ -1,11 +1,11 @@
 id: 790523090
-type: way
+type: node
 latitude: 38.6827
 longitude: -4.10702
 postcode: "13500"
 city: Puertollano
-street: "Calle Cervantes"
-housenumber: 24
+street: Calle Cervantes
+housenumber: "24"
 phone: ""
 opening_hours: ""
 website: ""

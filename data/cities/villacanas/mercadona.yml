@@ -1,11 +1,11 @@
 id: 299851400
-type: way
+type: node
 latitude: 39.61875
 longitude: -3.33631
 postcode: "45860"
 city: Villacañas
-street: "Avenida de Madridejos"
-housenumber: 17
+street: Avenida de Madridejos
+housenumber: "17"
 phone: ""
-opening_hours: "Mo-Sa 09:00-21:30"
-website: "https://www.mercadona.es"
+opening_hours: Mo-Sa 09:00-21:30
+website: https://www.mercadona.es

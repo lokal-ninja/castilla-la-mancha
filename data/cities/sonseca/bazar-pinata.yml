@@ -1,11 +1,11 @@
 id: 1192040497
-type: way
+type: node
 latitude: 39.67671
 longitude: -3.97508
 postcode: "45100"
 city: Sonseca
-street: "Calle Arroyada"
-housenumber: 84
-phone: "+34 925 38 09 11"
-opening_hours: "Mo-Sa 09:30-14:00,17:00-20:30"
+street: Calle Arroyada
+housenumber: "84"
+phone: +34 925 38 09 11
+opening_hours: Mo-Sa 09:30-14:00,17:00-20:30
 website: ""

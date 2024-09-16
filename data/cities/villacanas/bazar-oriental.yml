@@ -1,11 +1,11 @@
 id: 304964949
-type: way
+type: node
 latitude: 39.62464
 longitude: -3.33182
 postcode: "45860"
 city: Villacañas
-street: "Avenida de la Mancha"
-housenumber: 15
+street: Avenida de la Mancha
+housenumber: "15"
 phone: ""
 opening_hours: ""
 website: ""

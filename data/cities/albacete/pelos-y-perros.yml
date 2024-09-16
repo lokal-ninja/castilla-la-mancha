@@ -4,8 +4,8 @@ latitude: 38.99084
 longitude: -1.85563
 postcode: "02002"
 city: Albacete
-street: "Calle Teodoro Camino"
-housenumber: 24
+street: Calle Teodoro Camino
+housenumber: "24"
 phone: ""
 opening_hours: ""
-website: "http://www.pelosyperros.com/"
+website: http://www.pelosyperros.com/

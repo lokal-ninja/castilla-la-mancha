@@ -1,11 +1,11 @@
 id: 358498505
-type: way
+type: node
 latitude: 38.98571
 longitude: -3.90879
 postcode: "13005"
 city: Ciudad Real
-street: "Avenida de la Ciencia"
-housenumber: 
+street: Avenida de la Ciencia
+housenumber: ""
 phone: ""
 opening_hours: ""
-website: "https://www.decathlon.es"
+website: https://www.decathlon.es

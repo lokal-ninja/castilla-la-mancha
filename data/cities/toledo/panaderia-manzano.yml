@@ -4,8 +4,8 @@ latitude: 39.86859
 longitude: -4.02979
 postcode: "45004"
 city: Toledo
-street: "Avenida de Barber"
-housenumber: 2
+street: Avenida de Barber
+housenumber: "2"
 phone: "+34925229762"
-opening_hours: "Mo-Su 07:30-21:30"
-website: "https://www.panaderiamanzano.es/"
+opening_hours: Mo-Su 07:30-21:30
+website: https://www.panaderiamanzano.es/

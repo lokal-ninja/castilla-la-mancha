@@ -1,11 +1,11 @@
 id: 390611225
-type: way
+type: node
 latitude: 39.65466
 longitude: -4.78215
 postcode: "45650"
 city: Espinoso del Rey
-street: "Avenida de Castilla-La Mancha"
-housenumber: 6
+street: Avenida de Castilla-La Mancha
+housenumber: "6"
 phone: ""
 opening_hours: ""
 website: ""

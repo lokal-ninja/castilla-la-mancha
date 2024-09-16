@@ -1,11 +1,11 @@
 id: 799068701
-type: way
+type: node
 latitude: 38.69314
 longitude: -4.10649
 postcode: "13500"
 city: Puertollano
-street: "Calle de la Copa"
-housenumber: 3
+street: Calle de la Copa
+housenumber: "3"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 766526010
-type: way
+type: node
 latitude: 40.23528
 longitude: -2.08822
 postcode: "16140"
 city: Villalba de la Sierra
-street: "Calle Jorge Almagro"
-housenumber: 
+street: Calle Jorge Almagro
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Sa 08:30-14:00"
+opening_hours: Mo-Sa 08:30-14:00
 website: ""

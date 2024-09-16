@@ -1,11 +1,11 @@
 id: 381990028
-type: way
+type: node
 latitude: 40.62883
 longitude: -3.18621
 postcode: "19004"
 city: Guadalajara
-street: "Calle de Trafalgar"
-housenumber: 4
+street: Calle de Trafalgar
+housenumber: "4"
 phone: ""
 opening_hours: ""
-website: "https://www.mercadona.es"
+website: https://www.mercadona.es

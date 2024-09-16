@@ -1,11 +1,11 @@
 id: 257668291
-type: way
+type: node
 latitude: 39.95408
 longitude: -3.5065
 postcode: "45300"
 city: Ocaña
-street: "Calle Puerta de Huerta"
-housenumber: 
+street: Calle Puerta de Huerta
+housenumber: ""
 phone: ""
 opening_hours: ""
-website: "https://www.mercadona.es"
+website: https://www.mercadona.es

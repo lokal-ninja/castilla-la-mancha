@@ -1,11 +1,11 @@
 id: 390676930
-type: way
+type: node
 latitude: 39.66594
 longitude: -4.64143
 postcode: "45130"
 city: Los Navalucillos
-street: "Calle Real"
-housenumber: 6
+street: Calle Real
+housenumber: "6"
 phone: ""
 opening_hours: ""
 website: ""

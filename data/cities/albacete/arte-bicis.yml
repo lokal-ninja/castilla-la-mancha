@@ -4,8 +4,8 @@ latitude: 38.99615
 longitude: -1.8679
 postcode: "02004"
 city: Albacete
-street: "Calle Feria"
-housenumber: 123
+street: Calle Feria
+housenumber: "123"
 phone: "+34967614113"
 opening_hours: ""
-website: "https://www.artebicis.com"
+website: https://www.artebicis.com

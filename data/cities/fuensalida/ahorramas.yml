@@ -1,11 +1,11 @@
 id: 640536090
-type: way
+type: node
 latitude: 40.05441
 longitude: -4.20146
 postcode: "45510"
 city: Fuensalida
-street: "Avenida San Crispín"
-housenumber: 104
+street: Avenida San Crispín
+housenumber: "104"
 phone: ""
 opening_hours: ""
 website: ""

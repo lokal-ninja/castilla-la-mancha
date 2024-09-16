@@ -1,11 +1,11 @@
 id: 380106665
-type: way
+type: node
 latitude: 40.62791
 longitude: -3.18731
 postcode: "19004"
 city: Guadalajara
-street: "Calle de Trafalgar"
-housenumber: 
-phone: "+34 949208178"
+street: Calle de Trafalgar
+housenumber: ""
+phone: +34 949208178
 opening_hours: ""
-website: "https://www.leroymerlin.es/tiendas/compact-guadalajara"
+website: https://www.leroymerlin.es/tiendas/compact-guadalajara

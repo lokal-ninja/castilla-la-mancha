@@ -1,11 +1,11 @@
 id: 839679189
-type: way
+type: node
 latitude: 39.96593
 longitude: -4.81421
 postcode: "45600"
 city: Talavera de la Reina
-street: "Avenida de la Constitución"
-housenumber: 19
-phone: "+34 900 500 103"
-opening_hours: "Mo-Sa 09:00-22:00; PH off"
-website: "https://www.mercadona.es"
+street: Avenida de la Constitución
+housenumber: "19"
+phone: +34 900 500 103
+opening_hours: Mo-Sa 09:00-22:00; PH off
+website: https://www.mercadona.es

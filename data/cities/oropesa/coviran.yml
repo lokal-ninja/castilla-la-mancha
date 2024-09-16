@@ -4,8 +4,8 @@ latitude: 39.91797
 longitude: -5.177
 postcode: "45560"
 city: Oropesa
-street: "Calle Eduardo Martín"
-housenumber: 11
-phone: "+34 925431292"
-opening_hours: "Mo-Fr 09:00-13:50,17:00-21:00; Sa 09:00-13:20; Dec 25,May 01 off"
+street: Calle Eduardo Martín
+housenumber: "11"
+phone: +34 925431292
+opening_hours: Mo-Fr 09:00-13:50,17:00-21:00; Sa 09:00-13:20; Dec 25,May 01 off
 website: ""

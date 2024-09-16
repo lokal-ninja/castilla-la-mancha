@@ -4,8 +4,8 @@ latitude: 39.86
 longitude: -4.02126
 postcode: "45001"
 city: Toledo
-street: "Calle de las Armas"
-housenumber: 1
-phone: "+34 925052769"
+street: Calle de las Armas
+housenumber: "1"
+phone: +34 925052769
 opening_hours: ""
-website: "https://koker.es/"
+website: https://koker.es/

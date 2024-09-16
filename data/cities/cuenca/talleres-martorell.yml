@@ -1,11 +1,11 @@
 id: 1177225302
-type: way
+type: node
 latitude: 40.05151
 longitude: -2.14164
 postcode: "16003"
 city: Cuenca
-street: "Calle de la Cerrajera"
-housenumber: 10
-phone: "+34 969220206"
+street: Calle de la Cerrajera
+housenumber: "10"
+phone: +34 969220206
 opening_hours: ""
 website: ""

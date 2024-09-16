@@ -1,11 +1,11 @@
 id: 1168811002
-type: way
+type: node
 latitude: 39.79972
 longitude: -3.94311
 postcode: "45190"
 city: Nambroca
-street: "Calle Miralrío"
-housenumber: 4
-phone: "+34 925 36 61 19"
+street: Calle Miralrío
+housenumber: "4"
+phone: +34 925 36 61 19
 opening_hours: ""
 website: ""

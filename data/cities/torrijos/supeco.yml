@@ -1,11 +1,11 @@
 id: 997144966
-type: way
+type: node
 latitude: 39.989
 longitude: -4.28107
 postcode: "45500"
 city: Torrijos
-street: "Calle Tejar"
-housenumber: 67
+street: Calle Tejar
+housenumber: "67"
 phone: ""
 opening_hours: ""
-website: "https://www.supeco.es/"
+website: https://www.supeco.es/

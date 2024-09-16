@@ -1,11 +1,11 @@
 id: 381990000
-type: way
+type: node
 latitude: 40.63017
 longitude: -3.18537
 postcode: "19004"
 city: Guadalajara
-street: "Calle de Méjico"
-housenumber: 28
+street: Calle de Méjico
+housenumber: "28"
 phone: ""
 opening_hours: ""
 website: ""

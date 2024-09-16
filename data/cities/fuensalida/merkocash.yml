@@ -1,11 +1,11 @@
 id: 998182667
-type: way
+type: node
 latitude: 40.04481
 longitude: -4.2127
 postcode: "45510"
 city: Fuensalida
-street: "Carretera de Torrijos"
-housenumber: 17
-phone: "+34 925 67 91 21"
-opening_hours: "Mo-Sa 09:00-21:00"
+street: Carretera de Torrijos
+housenumber: "17"
+phone: +34 925 67 91 21
+opening_hours: Mo-Sa 09:00-21:00
 website: ""

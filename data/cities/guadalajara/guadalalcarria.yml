@@ -1,11 +1,11 @@
 id: 134911275
-type: way
+type: node
 latitude: 40.62908
 longitude: -3.1814
 postcode: "19004"
 city: Guadalajara
-street: "Avenida del Ejército"
-housenumber: 
-phone: "+34 697 307 666"
-opening_hours: "Mo-Sa 09:00-22:00"
+street: Avenida del Ejército
+housenumber: ""
+phone: +34 697 307 666
+opening_hours: Mo-Sa 09:00-22:00
 website: ""

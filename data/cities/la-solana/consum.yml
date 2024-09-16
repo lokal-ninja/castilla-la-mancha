@@ -1,11 +1,11 @@
 id: 354407115
-type: way
+type: node
 latitude: 38.9434
 longitude: -3.23333
 postcode: "13240"
 city: La Solana
-street: "Calle General Espartero"
-housenumber: 10
+street: Calle General Espartero
+housenumber: "10"
 phone: "+34926054780"
-opening_hours: "Mo-Sa 09:00-21:30"
-website: "https://www.consum.es"
+opening_hours: Mo-Sa 09:00-21:30
+website: https://www.consum.es

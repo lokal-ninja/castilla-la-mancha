@@ -4,8 +4,8 @@ latitude: 39.54636
 longitude: -2.08934
 postcode: "16214"
 city: Alarcón
-street: "Calle Santiago"
-housenumber: 11
+street: Calle Santiago
+housenumber: "11"
 phone: ""
-opening_hours: "10:00-20:00"
+opening_hours: 10:00-20:00
 website: ""

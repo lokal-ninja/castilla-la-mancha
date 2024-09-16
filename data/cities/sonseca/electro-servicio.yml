@@ -1,11 +1,11 @@
 id: 403175499
-type: way
+type: node
 latitude: 39.6781
 longitude: -3.97702
 postcode: "45100"
 city: Sonseca
-street: "Calle Ramón Y Cajal"
-housenumber: 53
+street: Calle Ramón Y Cajal
+housenumber: "53"
 phone: ""
 opening_hours: ""
 website: ""

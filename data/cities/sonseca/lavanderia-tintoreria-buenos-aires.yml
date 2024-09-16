@@ -1,11 +1,11 @@
 id: 404256217
-type: way
+type: node
 latitude: 39.67928
 longitude: -3.97733
 postcode: "45100"
 city: Sonseca
-street: "Calle Buenos Aires"
-housenumber: 18
+street: Calle Buenos Aires
+housenumber: "18"
 phone: ""
-opening_hours: "Mo-Sa 10:00-13:30"
+opening_hours: Mo-Sa 10:00-13:30
 website: ""

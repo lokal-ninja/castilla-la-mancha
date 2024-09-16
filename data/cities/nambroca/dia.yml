@@ -1,11 +1,11 @@
 id: 388865452
-type: way
+type: node
 latitude: 39.80124
 longitude: -3.94568
 postcode: "45190"
 city: Nambroca
-street: "Calle Duende"
-housenumber: 24
+street: Calle Duende
+housenumber: "24"
 phone: ""
 opening_hours: ""
 website: ""

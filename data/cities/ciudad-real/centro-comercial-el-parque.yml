@@ -1,11 +1,11 @@
 id: 263367112
-type: way
+type: node
 latitude: 38.98156
 longitude: -3.91571
 postcode: "13005"
 city: Ciudad Real
-street: "Avenida de Europa"
-housenumber: 
+street: Avenida de Europa
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

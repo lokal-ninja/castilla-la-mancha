@@ -1,11 +1,11 @@
 id: 1220074298
-type: way
+type: node
 latitude: 39.68747
 longitude: -3.97417
 postcode: "45100"
 city: Sonseca
-street: "Avenida Europa"
-housenumber: 
+street: Avenida Europa
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

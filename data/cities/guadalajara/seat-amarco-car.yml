@@ -1,11 +1,11 @@
 id: 381990009
-type: way
+type: node
 latitude: 40.62811
 longitude: -3.18642
 postcode: "19004"
 city: Guadalajara
-street: "Calle de Trafalgar"
-housenumber: 
+street: Calle de Trafalgar
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

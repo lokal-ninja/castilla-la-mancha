@@ -4,8 +4,8 @@ latitude: 39.86875
 longitude: -4.02293
 postcode: "45003"
 city: Toledo
-street: "Avenida del General Villalba"
-housenumber: 20
-phone: "+34 925 22 39 82"
-opening_hours: "Mo-Fr 10:00-20:00"
+street: Avenida del General Villalba
+housenumber: "20"
+phone: +34 925 22 39 82
+opening_hours: Mo-Fr 10:00-20:00
 website: ""

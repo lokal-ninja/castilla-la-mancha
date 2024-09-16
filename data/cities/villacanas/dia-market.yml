@@ -1,11 +1,11 @@
 id: 300328685
-type: way
+type: node
 latitude: 39.61741
 longitude: -3.34783
 postcode: "45860"
 city: Villacañas
-street: "Carretera de Tembleque"
-housenumber: 
+street: Carretera de Tembleque
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Sa 09:00-21:30"
+opening_hours: Mo-Sa 09:00-21:30
 website: ""

@@ -1,11 +1,11 @@
 id: 644423984
-type: way
+type: node
 latitude: 39.96706
 longitude: -4.79696
 postcode: "45600"
 city: Talavera de la Reina
-street: "Carretera de Madrid"
-housenumber: 114
-phone: "+34 925 509 640"
-opening_hours: "Mo-Sa 09:30-21:30"
-website: "https://www.maxcolchon.com/tienda-de-colchones-en-talavera-de-la-reina.html"
+street: Carretera de Madrid
+housenumber: "114"
+phone: +34 925 509 640
+opening_hours: Mo-Sa 09:30-21:30
+website: https://www.maxcolchon.com/tienda-de-colchones-en-talavera-de-la-reina.html

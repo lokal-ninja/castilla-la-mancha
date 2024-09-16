@@ -1,11 +1,11 @@
 id: 298299364
-type: way
+type: node
 latitude: 40.61858
 longitude: -3.15233
 postcode: "19002"
 city: Guadalajara
-street: "Calle Donante de Sangre"
-housenumber: 7
+street: Calle Donante de Sangre
+housenumber: "7"
 phone: ""
 opening_hours: ""
 website: ""

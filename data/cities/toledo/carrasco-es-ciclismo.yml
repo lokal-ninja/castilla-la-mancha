@@ -4,8 +4,8 @@ latitude: 39.86916
 longitude: -4.02427
 postcode: "45003"
 city: Toledo
-street: "Travesía de Gregorio Ramirez"
-housenumber: 4
-phone: "+34 925 380 839;+34 675 686 984"
-opening_hours: "Mo-Fr 10:00-14:00,17:00-20:30; Sa 10:00-14:00"
-website: "https://www.carrascoesciclismo.es/"
+street: Travesía de Gregorio Ramirez
+housenumber: "4"
+phone: +34 925 380 839;+34 675 686 984
+opening_hours: Mo-Fr 10:00-14:00,17:00-20:30; Sa 10:00-14:00
+website: https://www.carrascoesciclismo.es/

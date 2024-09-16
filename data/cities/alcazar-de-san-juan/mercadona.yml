@@ -1,11 +1,11 @@
 id: 267065388
-type: way
+type: node
 latitude: 39.39257
 longitude: -3.20336
 postcode: "13600"
 city: Alcázar de San Juan
-street: "Calle Velázquez"
-housenumber: 7
+street: Calle Velázquez
+housenumber: "7"
 phone: ""
 opening_hours: ""
-website: "https://www.mercadona.es"
+website: https://www.mercadona.es

@@ -1,11 +1,11 @@
 id: 1177592177
-type: way
+type: node
 latitude: 39.86925
 longitude: -3.94149
 postcode: "45007"
 city: Toledo
-street: "Calle del Río Alberche"
-housenumber: 55
-phone: "+34 678 48 93 44"
-opening_hours: "Mo-Fr 11:00-14:00,17:00-20:30; Sa 10:30-14:00"
+street: Calle del Río Alberche
+housenumber: "55"
+phone: +34 678 48 93 44
+opening_hours: Mo-Fr 11:00-14:00,17:00-20:30; Sa 10:30-14:00
 website: ""

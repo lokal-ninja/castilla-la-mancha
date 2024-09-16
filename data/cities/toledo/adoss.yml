@@ -1,11 +1,11 @@
 id: 102046494
-type: way
+type: node
 latitude: 39.86523
 longitude: -3.97013
 postcode: "45007"
 city: Toledo
-street: "Calle del Río Jarama"
-housenumber: 
-phone: "+34 925 22 93 04"
-opening_hours: "Mo-Fr 10:00-14:00,17:00-20:30; Sa 10:00-14:00"
-website: "https://www.adoss.es/"
+street: Calle del Río Jarama
+housenumber: ""
+phone: +34 925 22 93 04
+opening_hours: Mo-Fr 10:00-14:00,17:00-20:30; Sa 10:00-14:00
+website: https://www.adoss.es/

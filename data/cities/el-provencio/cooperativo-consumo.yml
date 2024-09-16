@@ -1,11 +1,11 @@
 id: 680677652
-type: way
+type: node
 latitude: 39.38133
 longitude: -2.57912
 postcode: "16670"
 city: El Provencio
-street: "Avenida de la Constitución"
-housenumber: 14
+street: Avenida de la Constitución
+housenumber: "14"
 phone: ""
-opening_hours: "Mo-Sa 09:00-20:00"
+opening_hours: Mo-Sa 09:00-20:00
 website: ""

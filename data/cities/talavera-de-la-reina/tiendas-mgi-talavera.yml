@@ -1,11 +1,11 @@
 id: 644423987
-type: way
+type: node
 latitude: 39.96706
 longitude: -4.79825
 postcode: "45600"
 city: Talavera de la Reina
-street: "Carretera de Madrid"
-housenumber: 114
+street: Carretera de Madrid
+housenumber: "114"
 phone: ""
-opening_hours: "Mo-Sa 10:00-22:00"
-website: "https://www.tiendasmgi.es/"
+opening_hours: Mo-Sa 10:00-22:00
+website: https://www.tiendasmgi.es/

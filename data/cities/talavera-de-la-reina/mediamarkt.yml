@@ -1,11 +1,11 @@
 id: 644423985
-type: way
+type: node
 latitude: 39.96669
 longitude: -4.79763
 postcode: "45600"
 city: Talavera de la Reina
-street: "Carretera de Madrid"
-housenumber: 114
+street: Carretera de Madrid
+housenumber: "114"
 phone: "+34900205000"
-opening_hours: "Mo-Sa 10:00-22:00"
-website: "https://www.mediamarkt.es/es/store/el-golf-1999"
+opening_hours: Mo-Sa 10:00-22:00
+website: https://www.mediamarkt.es/es/store/el-golf-1999

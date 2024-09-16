@@ -1,11 +1,11 @@
 id: 260188847
-type: way
+type: node
 latitude: 39.8691
 longitude: -3.9617
 postcode: "45007"
 city: Toledo
-street: "Calle del Río Jarama"
-housenumber: 55
+street: Calle del Río Jarama
+housenumber: "55"
 phone: ""
 opening_hours: ""
 website: ""

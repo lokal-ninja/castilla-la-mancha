@@ -1,11 +1,11 @@
 id: 545530734
-type: way
+type: node
 latitude: 39.46286
 longitude: -3.60561
 postcode: "45700"
 city: Consuegra
-street: "Avenida de la Constitución de 1978"
-housenumber: 16
-phone: "+34 92 548 10 49"
+street: Avenida de la Constitución de 1978
+housenumber: "16"
+phone: +34 92 548 10 49
 opening_hours: ""
-website: "https://www.mazapanespeces.com/"
+website: https://www.mazapanespeces.com/

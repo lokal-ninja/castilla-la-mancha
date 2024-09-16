@@ -1,11 +1,11 @@
 id: 300543141
-type: way
+type: node
 latitude: 39.32841
 longitude: -4.65288
 postcode: "13110"
 city: Horcajo de los Montes
-street: "Carretera de Anchuras"
-housenumber: 2
-phone: "+34 926 77 51 25"
+street: Carretera de Anchuras
+housenumber: "2"
+phone: +34 926 77 51 25
 opening_hours: ""
 website: ""

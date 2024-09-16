@@ -4,8 +4,8 @@ latitude: 39.88022
 longitude: -4.03428
 postcode: "45005"
 city: Toledo
-street: "Ronda de Buenavista"
-housenumber: 45
-phone: "+34 925 25 44 88"
-opening_hours: "Mo-Fr 10:00-13:30,16:30-19:30; Sa 09:30-14:00"
-website: "https://andresronco.es"
+street: Ronda de Buenavista
+housenumber: "45"
+phone: +34 925 25 44 88
+opening_hours: Mo-Fr 10:00-13:30,16:30-19:30; Sa 09:30-14:00
+website: https://andresronco.es

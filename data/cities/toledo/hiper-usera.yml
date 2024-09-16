@@ -1,11 +1,11 @@
 id: 257040425
-type: way
+type: node
 latitude: 39.86379
 longitude: -3.94506
 postcode: "45007"
 city: Toledo
-street: "Calle del Río Fresnedoso"
-housenumber: 4
+street: Calle del Río Fresnedoso
+housenumber: "4"
 phone: ""
 opening_hours: ""
 website: ""

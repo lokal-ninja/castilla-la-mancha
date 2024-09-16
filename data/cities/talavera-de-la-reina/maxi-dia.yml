@@ -1,11 +1,11 @@
 id: 644423993
-type: way
+type: node
 latitude: 39.96694
 longitude: -4.79931
 postcode: "45600"
 city: Talavera de la Reina
-street: "Carretera de Madrid"
-housenumber: 114
+street: Carretera de Madrid
+housenumber: "114"
 phone: ""
-opening_hours: "Mo-Sa 09:00-21:30"
+opening_hours: Mo-Sa 09:00-21:30
 website: ""

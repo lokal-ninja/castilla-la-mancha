@@ -1,11 +1,11 @@
 id: 260188849
-type: way
+type: node
 latitude: 39.86818
 longitude: -3.96162
 postcode: "45007"
 city: Toledo
-street: "Calle del Río Jarama"
-housenumber: 46
-phone: "+34 925234492"
+street: Calle del Río Jarama
+housenumber: "46"
+phone: +34 925234492
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 817066589
-type: way
+type: node
 latitude: 38.98738
 longitude: -3.93485
 postcode: ""
 city: Ciudad Real
-street: "Calle Camino del Campillo"
-housenumber: 5
+street: Calle Camino del Campillo
+housenumber: "5"
 phone: ""
 opening_hours: ""
 website: ""

@@ -4,8 +4,8 @@ latitude: 39.2844
 longitude: -1.47748
 postcode: "02200"
 city: Casas Ibañez
-street: "Calle Sur"
-housenumber: 2
-phone: "+34 967461103"
-opening_hours: "8:30-14:00, 16:00-20:30"
+street: Calle Sur
+housenumber: "2"
+phone: +34 967461103
+opening_hours: 8:30-14:00, 16:00-20:30
 website: ""

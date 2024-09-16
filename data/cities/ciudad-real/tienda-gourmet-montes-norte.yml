@@ -4,8 +4,8 @@ latitude: 38.98215
 longitude: -3.92901
 postcode: "13001"
 city: ciudad real
-street: "c/ramirez de arellano"
-housenumber: 2
-phone: "+34 926 22 91 48"
-opening_hours: "Mo-Fr 09:00-14:00,17:30-20:30"
-website: "https://www.grupomontesnorte.com/"
+street: c/ramirez de arellano
+housenumber: "2"
+phone: +34 926 22 91 48
+opening_hours: Mo-Fr 09:00-14:00,17:30-20:30
+website: https://www.grupomontesnorte.com/

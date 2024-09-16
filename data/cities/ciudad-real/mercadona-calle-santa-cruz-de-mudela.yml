@@ -1,11 +1,11 @@
 id: 485894631
-type: way
+type: node
 latitude: 38.9694
 longitude: -3.92832
 postcode: "13005"
 city: Ciudad Real
-street: "Calle Santa Cruz de Mudela"
-housenumber: 2
-phone: "+34 926207352"
-opening_hours: "Mo-Sa 09:00-21:30"
-website: "https://info.mercadona.es/"
+street: Calle Santa Cruz de Mudela
+housenumber: "2"
+phone: +34 926207352
+opening_hours: Mo-Sa 09:00-21:30
+website: https://info.mercadona.es/

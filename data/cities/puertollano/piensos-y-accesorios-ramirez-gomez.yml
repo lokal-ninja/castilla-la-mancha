@@ -1,11 +1,11 @@
 id: 790537932
-type: way
+type: node
 latitude: 38.68007
 longitude: -4.10923
 postcode: "13500"
 city: Puertollano
-street: "Calle Asdrúbal"
-housenumber: 48
+street: Calle Asdrúbal
+housenumber: "48"
 phone: ""
 opening_hours: ""
 website: ""
