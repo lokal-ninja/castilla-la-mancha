@@ -1,6 +1,6 @@
 ---
 title: Mejorada
 url: /mejorada/
-latitude: 40.011
-longitude: -4.885
+latitude: 40.009
+longitude: -4.886
 ---
