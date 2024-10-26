@@ -1,6 +1,6 @@
 ---
 title: Sonseca
 url: /sonseca/
-latitude: 39.681
-longitude: -3.972
+latitude: 39.676
+longitude: -3.974
 ---
