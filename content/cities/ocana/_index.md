@@ -1,6 +1,6 @@
 ---
 title: Ocaña
 url: /ocana/
-latitude: 39.957
-longitude: -3.498
+latitude: 39.959
+longitude: -3.5
 ---
