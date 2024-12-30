@@ -1,6 +1,6 @@
 ---
 title: El Provencio
 url: /el-provencio/
-latitude: 39.381
-longitude: -2.579
+latitude: 39.376
+longitude: -2.575
 ---
