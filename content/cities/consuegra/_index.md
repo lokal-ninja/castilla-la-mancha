@@ -2,5 +2,5 @@
 title: Consuegra
 url: /consuegra/
 latitude: 39.463
-longitude: -3.606
+longitude: -3.609
 ---
