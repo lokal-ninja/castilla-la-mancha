@@ -1,5 +1,5 @@
 ---
 title: "Euromaster"
 url: /tomelloso/euromaster/
-shop: general
+shop: reparación de automóviles
 ---
