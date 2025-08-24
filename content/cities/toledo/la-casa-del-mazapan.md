@@ -1,5 +1,5 @@
 ---
-title: "La Casa del Mazapán"
+title: "La Casa del Mazapan"
 url: /toledo/la-casa-del-mazapan/
-shop: charcutería
+shop: confitería
 ---
