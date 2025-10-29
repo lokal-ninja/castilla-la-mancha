@@ -1,6 +1,6 @@
 ---
 title: La Roda
 url: /la-roda/
-latitude: 39.207
-longitude: -2.16
+latitude: 39.195
+longitude: -2.145
 ---
