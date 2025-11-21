@@ -1,6 +1,6 @@
 ---
 title: Tomelloso
 url: /tomelloso/
-latitude: 39.182
-longitude: -3.009
+latitude: 39.149
+longitude: -3.025
 ---
