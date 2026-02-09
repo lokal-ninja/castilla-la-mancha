@@ -1,5 +1,5 @@
 ---
 title: "Manjares Manchegos"
 url: /tomelloso/manjares-manchegos/
-shop: general
+shop: charcutería
 ---
