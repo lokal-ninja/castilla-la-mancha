@@ -1,6 +1,6 @@
 ---
 title: Belvís de la Jara
 url: /belvis-de-la-jara/
-latitude: 39.761
-longitude: -4.951
+latitude: 39.755
+longitude: -4.947
 ---
