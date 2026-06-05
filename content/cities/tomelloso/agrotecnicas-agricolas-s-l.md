@@ -1,5 +1,5 @@
 ---
-title: "Agrotecnicas Agricolas S.L."
+title: "Agrotécnicas Agrícolas S.L."
 url: /tomelloso/agrotecnicas-agricolas-s-l/
-shop: granja
+shop: agraria
 ---
