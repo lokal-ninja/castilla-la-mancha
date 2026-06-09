@@ -1,6 +1,6 @@
 ---
 title: Mora
 url: /mora/
-latitude: 39.683
-longitude: -3.772
+latitude: 39.69
+longitude: -3.778
 ---

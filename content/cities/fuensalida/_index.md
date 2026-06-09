@@ -1,6 +1,6 @@
 ---
 title: Fuensalida
 url: /fuensalida/
-latitude: 40.055
-longitude: -4.2
+latitude: 40.054
+longitude: -4.201
 ---

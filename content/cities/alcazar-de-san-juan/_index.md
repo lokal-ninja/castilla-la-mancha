@@ -1,6 +1,6 @@
 ---
 title: Alcázar de San Juan
 url: /alcazar-de-san-juan/
-latitude: 39.396
-longitude: -3.212
+latitude: 39.392
+longitude: -3.208
 ---
