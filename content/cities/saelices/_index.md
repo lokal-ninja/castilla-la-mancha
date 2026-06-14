@@ -1,6 +1,6 @@
 ---
 title: Saelices
 url: /saelices/
-latitude: 39.92
-longitude: -2.804
+latitude: 39.918
+longitude: -2.798
 ---
