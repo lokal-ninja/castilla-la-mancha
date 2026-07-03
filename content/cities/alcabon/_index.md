@@ -2,5 +2,5 @@
 title: Alcabón
 url: /alcabon/
 latitude: 40.005
-longitude: -4.373
+longitude: -4.374
 ---
