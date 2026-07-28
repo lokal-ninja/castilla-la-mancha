@@ -1,5 +1,5 @@
 ---
 title: "Dia"
-url: /albacete/dia-calle-del-angel/
+url: /albacete/dia-calle-angel/
 shop: supermercado
 ---
