@@ -1,6 +1,6 @@
 ---
-title: Tobarra
+title: tobarra
 url: /tobarra/
-latitude: 38.592
-longitude: -1.696
+latitude: 38.593
+longitude: -1.689
 ---
